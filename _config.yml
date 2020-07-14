@@ -12,7 +12,7 @@ author: Naranim
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  개발이야기: "devStory"
+  개발이야기: "posts"
   기타잡설: "myStory"
 
 # --- Logo --- #
